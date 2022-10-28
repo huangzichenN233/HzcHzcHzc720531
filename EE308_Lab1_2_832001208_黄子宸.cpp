@@ -1,4 +1,4 @@
-#
+#include<iostream>
 string file_name;
 int hzc;
 steing czh;
